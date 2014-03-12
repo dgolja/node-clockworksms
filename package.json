@@ -1,0 +1,19 @@
+{
+  "name": "clockworksms",
+  "description": "A client interface to clockworksms services",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/golja/node-clockworksms.git"
+  },
+  "author": "Dejan Golja <dejan@golja.org>",
+  "main": "lib/clockworksms.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {
+  }
+}
