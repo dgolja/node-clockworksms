@@ -1,7 +1,18 @@
 {
   "name": "clockworksms",
-  "description": "A client interface to clockworksms services",
-  "version": "0.1.0",
+  "description": "A client API interface to clockworksms service",
+  "version": "0.1.0-rc1",
+  "homepage": "http://www.golja.org",
+  "licenses": [
+    {
+      "type": "ASL 2.0",
+      "url": "https://raw.githubusercontent.com/n1tr0g/node-clockworksms/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "clockworksms",
+    "api"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/golja/node-clockworksms.git"
